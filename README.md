@@ -1,3 +1,7 @@
-# ctf-writeups
+## CTF Writeups
 
-Writeups for CTF competitions and box challenges.
+A personal collection of CTF challenge writeups.
+
+## Note
+
+Writeups may contain spoilers and recovered flags.
